@@ -89,6 +89,7 @@ The list
 - Paul Rouget (Mozilla)
 - David Rousset (Microsoft)
 - Benjamin Scetbun (42.fr)
+- Florent Solt (Mandriva, Netvibes)
 - Alexandre Strzelewicz (PM2)
 - Kevin Szkudlapski (EADS, Reverse engineering)
 - Willy Tarreau (HAProxy, Linux Kernel)
